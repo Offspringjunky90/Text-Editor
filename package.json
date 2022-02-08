@@ -17,6 +17,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "if-env": "^1.0.4",
+    "node": "^17.4.0",
     "serve": "^13.0.2"
   },
   "devDependencies": {
